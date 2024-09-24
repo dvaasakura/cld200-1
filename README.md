@@ -1,2 +1,2 @@
 # cld200
-training repo
+training repository
